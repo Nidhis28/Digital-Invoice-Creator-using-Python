@@ -28,7 +28,7 @@ This project is a command-line tool for small businesses, retail stores, or indi
 🛠 Requirements
 
 - Python 3.x
-- 
+  
 - `reportlab` library
 
 Install ReportLab if not already:
